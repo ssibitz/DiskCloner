@@ -3,7 +3,8 @@
 ## About
 
 DiskCloner is a tool for easily read or write raw disk images (aka `dd` images) under Windows.
-It's a new development (fork) of the project WinDiskFlash:
+
+It's a redevelopment (fork) of the project WinDiskFlash:
 https://github.com/namazso/WinDiskFlash
 
 ## Features
